@@ -1,0 +1,15 @@
+.dictionary
+{
+    display:flex;
+    
+    flex-direction:column;
+   height:100vh;
+    width:100%;
+    align-items: center;
+   position:fixed;
+   top:0;
+   left:0;
+   justify-content: space-evenly;
+
+
+}
